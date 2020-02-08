@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="splash">Splash Screen</string>
+    <string name="game">Game Screen</string>
+    <string name="menu">Menu Screen</string>
+    <string name="help">Help Screen</string>
+    <string name="scrores">Scores Screen</string>
+    <string name="settings">Settings Screen</string>
+
+    <string name="developer_text">Make by Sania</string>
+
+    <string name="menu_new_game">New game</string>
+    <string name="menu_scores">Scores</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_help">Help</string>
+
+    <string name="pawn">Pawn</string>
+    <string name="tour">Tour</string>
+    <string name="hourse">Hourse</string>
+    <string name="officer">Officer</string>
+    <string name="queen">Queen</string>
+
+</resources>
